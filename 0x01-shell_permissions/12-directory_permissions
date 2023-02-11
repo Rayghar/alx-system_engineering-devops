@@ -1,2 +1,2 @@
 #!/bin/bash
-# mkdir my_dirr | tee /dev/null; sleep 1; chmod 751 my_dirr
+# mkdir my_dir | tee /dev/null; sleep 1; chmod 751 my_dir
