@@ -1,2 +1,2 @@
 #!/bin/bash
-for i in {a..z}; do for j in {a..z}; do if [ "$i$j" != "oo" ]; then echo "$i$j"; fi; done; done | grep -v oo
+for c in {a..z}; do for d in {a..z}; do echo "$c$d"; done; done | grep -v "oo"
